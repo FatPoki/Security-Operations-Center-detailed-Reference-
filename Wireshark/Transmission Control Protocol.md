@@ -53,7 +53,7 @@ When data exchange is finished, TCP uses a four-step process to close the connec
   ## Attachment of sample packet
 
 
-![[Screenshot from 2026-01-18 23-36-51.png]]
+<img src="https://github.com/FatPoki/Security-Operations-Center-detailed-Reference/blob/main/Wireshark/Screenshot%20from%202026-01-18%2023-36-51.png">
 
 
 ---
