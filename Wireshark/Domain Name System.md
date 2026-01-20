@@ -2,7 +2,7 @@ Domain name system  **abbreviated** as  DNS is like a phone book for digital IP'
 
 example : we search google.com and system converts it to **142.250.186.46** 
 
-![[Screenshot from 2026-01-18 23-48-45.png]]
+<img src="https://github.com/FatPoki/Security-Operations-Center-detailed-Reference/blob/main/Wireshark/Screenshot%20from%202026-01-18%2023-48-45.png">
 
 
 ---
