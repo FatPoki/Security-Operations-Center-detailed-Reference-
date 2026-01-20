@@ -1,5 +1,10 @@
 # Security-Operations-Center-detailed-Memo
 
+ <img src="https://github.com/user-attachments/assets/fab54c58-aed4-4595-9435-eaa39f749d69" 
+       alt="SOC Analyst Memo Preview" 
+       style="border: 2px solid #000; width: 500px; height: 200px; object-fit: cover;"> <br><hr>
+
+
 This repository is a structured knowledge base for Security Operations Center learning and day-to-day analyst reference. It focuses on practical SOC skills including networking, traffic analysis, log investigation, SIEM operations, cloud security, and automation.
 
 ---
