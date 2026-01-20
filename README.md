@@ -1,4 +1,4 @@
-# Security-Operations-Center-detailed-Reference
+# Security-Operations-Center-detailed-Memo
 
 This repository is a structured knowledge base for Security Operations Center learning and day-to-day analyst reference. It focuses on practical SOC skills including networking, traffic analysis, log investigation, SIEM operations, cloud security, and automation.
 
