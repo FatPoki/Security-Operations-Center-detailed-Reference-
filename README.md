@@ -15,7 +15,7 @@ This section covers fundamental networking concepts required for SOC such as the
 ## [Wireshark](https://github.com/FatPoki/Soc-Memo/tree/main/Wireshark)
 This section focuses on packet analysis using Wireshark, including traffic inspection, TCP handshake verification, DNS analysis, and identifying malicious communication patterns.
 
-## Linux + Logs
+## [Linux + Logs](https://github.com/FatPoki/Soc-Memo/tree/main/Linux)
 This section includes Linux fundamentals and log analysis skills such as navigating log directories, understanding system and authentication logs, and using command-line tools for investigations.
 
 ## SOC Fundamentals
